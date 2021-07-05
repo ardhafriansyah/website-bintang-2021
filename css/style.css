@@ -279,7 +279,7 @@ footer {
 
 /* feature section */
 #feature {
-  background: #f1c11a;
+  background:lightblue;
 }
 
 #feature .icon {
@@ -347,10 +347,27 @@ footer {
   background: #f1c11a;
 }
 
+.card01 {
+  padding-bottom: 2rem;
+}
 
+
+.card02 {
+  padding-bottom: 2rem;
+}
+
+
+.card03 {
+  padding-bottom: 2rem;
+}
+
+
+.card04 {
+  padding-bottom: 2rem;
+}
 /* footer section  */
 footer {
-  background: #111112;
+  background: seagreen;
   text-align: center;
 }
 
@@ -365,6 +382,8 @@ footer a {
 footer a:hover {
 	color: #FF6;
 }
+
+
 
 /* svg */
 .svgcolor-light {
@@ -470,36 +489,6 @@ footer a:hover {
     color: #ffffff;
 }
 
-
-/* social icon section  */
-.social-icon {
-  padding: 0;
-  margin: 0;
-}
-
-.social-icon li {
-  list-style: none;
-  display: inline-block;
-}
-
-.social-icon li a {
-  border-radius: 100px;
-  color: #626262;
-  font-size: 18px;
-  text-decoration: none;
-  transition: all 0.4s ease-in-out;
-  width: 42px;
-  height: 42px;
-  line-height: 42px;
-  text-align: center;
-  margin-top: 12px;
-  margin-right: 10px;
-}
-
-.social-icon li a:hover {
-  background-color: #ffffff;
-  color: #111112;
-}
 
 /* Mobile Responsive */
 @media (max-width: 980px) {
